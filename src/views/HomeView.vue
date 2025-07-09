@@ -11,6 +11,7 @@ import Projects from '../components/Projects.vue'
 </script>
 
 <template>
+  
   <main>
     <Hero />
     <About/>
