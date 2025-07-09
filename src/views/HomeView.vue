@@ -17,7 +17,7 @@ import Projects from '../components/Projects.vue'
     <Services/>
     <Projects/>
     <Contact/>
-    <ApiDataFetcher/>  
+    <!-- <ApiDataFetcher/>   -->
                     
    <Footer />
   </main>
